@@ -1,9 +1,8 @@
 # Site settings
 title: Jose Carapia
-description: Portfolio for Jose Carapia
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
- url: "http://josecarapia.com" 
-# the base hostname & protocol for your site e.g. http://willianjusten.com.br
+description: Profile
+# baseurl:  # the subpath of your site, e.g. /blog
+#url: "https://josecarapia.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Jose Carapia
